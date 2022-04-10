@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760090797753",
+    "project_id": "practicapersonal-43cef",
+    "storage_bucket": "practicapersonal-43cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760090797753:android:acd3fd8c63b5544b511d68",
+        "android_client_info": {
+          "package_name": "com.celulares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760090797753-td2nfjboivogg1ptr7d5ltt4596p0vtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZ9Jin4lDsMOqOIt2SwrtHxdK4h2q37A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760090797753-td2nfjboivogg1ptr7d5ltt4596p0vtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
